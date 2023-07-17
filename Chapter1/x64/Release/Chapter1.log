@@ -1,9 +1,0 @@
-﻿  1_InitFunctions.cpp
-  2_VectorOps.cpp
-  3_tol.cpp
-  4_xmvec3.cpp
-  Generating code
-  All 38 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  Chapter1.vcxproj -> E:\Learning\DirectX_12\Chapter1\x64\Release\Chapter1.exe
-  Chapter1.vcxproj -> E:\Learning\DirectX_12\Chapter1\x64\Release\Chapter1.pdb (Full PDB)
